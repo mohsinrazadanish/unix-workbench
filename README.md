@@ -1,30 +1,27 @@
-# This is a large heading
+# Mohsin Raza
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Eindhoven, in the state of North Branbant, in the Netherlands.
 
-- This is
-- an unordered
-- list
+### Sports
 
-1. This is
-2. an ordered
-3. list
+Threee of my favorite sports and favorite sportsmen are:
 
-Here is `some code` in the middle of a sentence.
+- *Football* Lionel Messi
+- *Athletics* Usain Bolt
+- *Cricket* Misbah-ul-Haq
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My favorite dishes are:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Biryani
+2. Qorma
+3. Spinch-beaf/mutton curry
 
-nano README.md
+### Contact
+
+The best way to get in touch with me is [on Email](mohsinrazadanish@gmail.com)
+
+
