@@ -1,0 +1,23 @@
+commit 70fd17d0395a0d89d4f6dc55a6b1c1ad19f99d85
+Author: mohsinrazadanish <mohsinrazadanish@gmail.com>
+Date:   Wed Jul 18 13:08:21 2018 +0200
+
+    added more files to gitignore list
+
+commit c745005827b7e642d1742179aa444732cd03eb52
+Author: mohsinrazadanish <mohsinrazadanish@gmail.com>
+Date:   Wed Jul 18 13:01:17 2018 +0200
+
+    added gitignore
+
+commit 28e25446ce96553d67ae49c372fb91d6fd9afa33
+Author: mohsinrazadanish <mohsinrazadanish@gmail.com>
+Date:   Wed Jul 18 11:52:13 2018 +0200
+
+    added two files
+
+commit 024e12edf70c6ab8326d331f17c427443ea5d156
+Author: mohsinrazadanish <mohsinrazadanish@gmail.com>
+Date:   Wed Jul 18 11:44:34 2018 +0200
+
+    added readme.txt
